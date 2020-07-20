@@ -4,7 +4,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![Qian Hu's github stats](https://github-readme-stats.vercel.app/api?username=huqian301&show_icons=true&hide=["prs","contribs"]&theme=dark) 
+![Qian Hu's github stats](https://github-readme-stats.vercel.app/api?username=huqian301&show_icons=true&hide=["stars","prs","issues","contribs"]&theme=dark) 
 
 <h1 align = 'center'> Currently learning </h1>
 <div align='center'> 
