@@ -5,6 +5,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![Qian Hu's github stats](https://github-readme-stats.vercel.app/api?username=huqian301&show_icons=true&hide=["stars","prs","issues","contribs"]&theme=dark) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=huqian301&theme=dark)](https://github.com/huqian301)
 
 <h1 align = 'center'> Currently learning </h1>
 <div align='center'> 
