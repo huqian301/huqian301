@@ -9,9 +9,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<div align='center'> 
 [![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=huqian301&theme=dark)](https://github.com/huqian301)
-</div>
+
 <h1 align = 'center'> Skills</h1>
 <div align='center'> 
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"> <img src="https://media.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.gif" width="100"></div>
