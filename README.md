@@ -9,7 +9,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-[![Top Langs](https://github-readme-stats-1-ivory.vercel.app/api/top-langs/?username=huqian301&theme=dark)](https://github.com/huqian301)
 
 <h1 align = 'center'> Skills</h1>
 <div align='center'> 
